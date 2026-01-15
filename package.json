@@ -1,0 +1,17 @@
+{
+  "name": "psych-engine-editor",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "howler": "^2.2.3"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  }
+}
